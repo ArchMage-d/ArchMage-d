@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JS/TS
+- 🌱 I’m currently learning JS/TS/React.js
 -->

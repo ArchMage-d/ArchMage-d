@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JS/TS/React.js
+- 🌱 I’m currently learning TS/React.js/NestJS, and working on a bigger project using node and react. 
 
